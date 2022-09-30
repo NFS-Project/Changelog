@@ -1,8 +1,8 @@
 # 29-09-2022
 
 ❏ 💥Device Changelog💥
-<├ sepolicy Address ISlmAdapter and MWQEM denials\>
-<├ Use 2GB phone Dalvik heap values for 3GB variant\>
+<├ sepolicy Address ISlmAdapter and MWQEM denials/>
+<├ Use 2GB phone Dalvik heap values for 3GB variant/>
 ├ update fp from raven 13 TP1A.220905.004
 ├ fix rounded corner size to A13
 ├ Move Bluetooth power config away from overlays
