@@ -1,4 +1,5 @@
 # 29-09-2022
+
 ❏ 💥Device Changelog💥
 ├ sepolicy Address ISlmAdapter and MWQEM denials
 ├ Use 2GB phone Dalvik heap values for 3GB variant
