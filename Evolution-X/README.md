@@ -1,3 +1,17 @@
+# 03-10-2022
+
+❏ 💥Device Changelog💥<br/>
+├ Disable APEX compression<br/>
+├ Fixed MT SMS sent during power off<br/>
+├ Enabled zygote critical window<br/>
+├ Added WLAN time-slice duty cycle<br/>
+├ Addressed linkerconfig denials<br/>
+├ Removed ALAC codec support (vulnerable)<br/>
+├ Add NFSParts<br/>
+├ Merge Kernel upstream-aosp 4.9.330 (KudProject)<br/>
+├ Added mbcache backport patches in kernel<br/>
+└ bfq I/O added
+
 # 29-09-2022
 
 ❏ 💥Device Changelog💥<br/>
